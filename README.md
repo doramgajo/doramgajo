@@ -1,16 +1,15 @@
-## Hi there 👋
+### **Hi there!👋 Welcome to my GitHub profile 😄**
 
-<!--
-**doramgajo/doramgajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Doramas**, a **`💿 software developer`** currently working on the **`🎞️ 2D/3D animation and VFX industry`** in **`🏝️ Santa Cruz de Tenerife, Canary Islands`**.
 
-Here are some ideas to get you started:
+```python
+doramgajo = Developer(
+    "Doramas García Jorge",
+    experience_years=2,
+    languages=["Python", "Java"],
+    technologies=["Blender's Python API", "Gazu/Zou API", "PySide6", "Git", "SQL"],
+)
+doramgajo.develop(your_idea)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me sending an email to [**`✉️ doramgajo@gmail.com`**](mailto:doramgajo@gmail.com) or connecting in [**`🌐 LinkedIn`**](https://www.linkedin.com/in/doramgajo/).
