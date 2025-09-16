@@ -1,15 +1,15 @@
 <div align="center">
-    <h3>👋 Hi there! Welcome to my GitHub profile</h3>
+    <h3>:wave: Hi there! Welcome to my GitHub profile</h3>
 </div>
 
-I'm **Doramas**, a **`💿 software developer`**
-currently working on the **`🎞️ 2D/3D animation and VFX industry`**
-in **`🏝️ Santa Cruz de Tenerife, Canary Islands`**.
+I'm **Doramas**, a :cd: **`software developer`**
+currently working on the :movie_camera:**`2D/3D animation and VFX industry`**
+in :palm_tree:**`Santa Cruz de Tenerife, Canary Islands`**.
 
 ---
 
 <div align="center">
-<h3>🧐 Take a look to my repositories</h3>
+<h3>:thinking: Take a look to my repositories</h3>
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@ doramgajo.develop(your_idea)
 ---
 
 <div align="center">
-<h3>🔗 Connect with me</h3>
+<h3>:link: Connect with me</h3>
 </div>
 
-Reach me sending an email to [**`✉️ doramgajo@gmail.com`**](mailto:doramgajo@gmail.com) or connecting in [**`💼 LinkedIn`**](https://www.linkedin.com/in/doramgajo/).
+Reach me sending an email to :email:[**`doramgajo@gmail.com`**](mailto:doramgajo@gmail.com) or connecting in :briefcase:[**`LinkedIn`**](https://www.linkedin.com/in/doramgajo/).
