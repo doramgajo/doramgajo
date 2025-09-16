@@ -3,7 +3,7 @@
 I'm **Doramas**, a **`💿 software developer`** currently working on the **`🎞️ 2D/3D animation and VFX industry`** in **`🏝️ Santa Cruz de Tenerife, Canary Islands`**.
 
 <div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=%233776AB&logoSize=auto&link=https%3A%2F%2Fgithub.com%2Fdoramgajo%3Ftab%3Drepositories%26language%3Dpython">
+    <a href="https://github.com/doramgajo?tab=repositories&language=python"><img alt="Static Badge" src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=%233776AB&logoSize=auto"></a>
 </div>
 
 ```python
