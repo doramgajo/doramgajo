@@ -17,7 +17,7 @@ in :palm_tree:**`Santa Cruz de Tenerife, Canary Islands`**.
     <a href="https://github.com/doramgajo?tab=repositories&language=java"><img alt="Java repositories" src="https://img.shields.io/badge/Java-f0931c?style=plastic"></a>
     <a href="https://github.com/doramgajo?tab=repositories&language=kotlin"><img alt="Kotlin repositories" src="https://img.shields.io/badge/Kotlin-7f52ff?style=plastic"></a>
     <a href="https://github.com/doramgajo?tab=repositories&language=c%23"><img alt="C%23 repositories" src="https://img.shields.io/badge/C%23-68217A?style=plastic"></a>
-    <a href="https://github.com/doramgajo?tab=repositories&q=archived%3Afalse+-repo%3Adoramgajo%2Fdoramgajo"><img alt="Repositories under development" src="https://img.shields.io/badge/Under%20development-4CAF50?style=plastic"></a>
+    <!--<a href="https://github.com/doramgajo?tab=repositories&q=archived%3Afalse+-repo%3Adoramgajo%2Fdoramgajo"><img alt="Repositories under development" src="https://img.shields.io/badge/Under%20development-4CAF50?style=plastic"></a>-->
 </div>
 
 ---
